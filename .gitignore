@@ -1,0 +1,6 @@
+.claude/
+.claude-design/
+*.pptx
+*.pdf
+*.excalidraw
+desktop.ini
